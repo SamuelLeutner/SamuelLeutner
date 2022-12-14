@@ -4,9 +4,9 @@
 
 I'm a 19 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front and back-end development, making applications that impact the lives of thousands of users.
 
-I am also a student of the Profession Programmer course by professor @paulovictorborges and the platform @Rocketseat.
+I am also a student of the Profession Programmer course by professor Paulo Victor Borges and the platform @Rocketseat.
 
-🌍 I live in Guarapuava Paraná, Brazil<br/>
+🌍 I live in Guarapuava, Paraná, Brazil<br/>
 ✉️ You can reach me at samuel.leutner@hotmail.com<br/>
 🚀 I am currently looking for work<br/>
 🧠 I'm learning Advanced Javascript, TypeScript and React<br/>
