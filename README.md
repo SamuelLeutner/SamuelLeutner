@@ -6,11 +6,11 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 
 I am also a student of the Profession Programmer course by professor @paulovictorborges and the platform @RocketseatEducation
 
-🌍 I live in Guarapuava Paraná, Brazil
-✉️ You can reach me at samuel.leutner@icloud.com
-🚀 I am currently looking for work
-🧠 I'm learning Advanced Javascript, TypeScript and React
-🤝 I am open to collaborating on high impact projects on people's lives
+🌍 I live in Guarapuava Paraná, Brazil<br/>
+✉️ You can reach me at samuel.leutner@icloud.com<br/>
+🚀 I am currently looking for work<br/>
+🧠 I'm learning Advanced Javascript, TypeScript and React<br/>
+🤝 I am open to collaborating on high impact projects on people's lives<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/s.leutner9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.leutner9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuel-Leutner-Ferreira) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@leutner0322) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/saez20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/saez20) 
