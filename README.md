@@ -17,10 +17,6 @@ I am also a student of the Profession Programmer course by professor Paulo Victo
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![] [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SamuelLeutner=anuraghazra)  (https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelLeutner&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLeutner&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
