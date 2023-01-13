@@ -1,4 +1,4 @@
-### Hi 👋 My name is Samuel
+### Hi https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif My name is Samuel
 
 # 💫 About Me:
 
