@@ -1,4 +1,4 @@
-<h1 align="left">Hi height="30px">, My name is Samuel</h1>
+<h1 align="left">Hi, My name is Samuel</h1>
 ![2779f275-e0a4-471a-9d8f-07bd1a2889d1](https://user-images.githubusercontent.com/103613009/230779562-7ab477a5-2476-4203-bce9-2231783ffe5b.gif)
 
 # 💫 About Me:
