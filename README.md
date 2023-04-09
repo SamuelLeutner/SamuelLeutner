@@ -40,9 +40,10 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 <div align="center">
  
 ![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+ ---
+[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
  </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
