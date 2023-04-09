@@ -1,4 +1,4 @@
-<h1 align="left">Hi [<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"](https://user-images.githubusercontent.com/103613009/230778431-556dda09-86d8-445e-b3ea-bc87bdef5858.mp4) height="30px">, My name is Samuel</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"](https://user-images.githubusercontent.com/103613009/230778431-556dda09-86d8-445e-b3ea-bc87bdef5858.mp4) height="30px">, My name is Samuel</h1>
 
 # 💫 About Me:
 <p align="center">
