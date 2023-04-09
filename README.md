@@ -23,9 +23,6 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
 
