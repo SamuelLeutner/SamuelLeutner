@@ -8,8 +8,7 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 <p aling="left">
 🌍 I live in Guarapuava, Paraná, Brazil<br>✉️ You can reach me at samuel.leutner@icloud.com<br>🚀 I am currently looking for work<br>🧠 I'm learning SQL, NodeJS and React<br>🤝 I am open to collaborating on high impact projects on people's lives <br/>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/s.leutner9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/s.leutner9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-leutner-b130081b7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://pt.stackoverflow.com/users/313494/samuel-leutner) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/saez20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC310MnIHhsXY4iZQ6bxoWpg) 
@@ -48,5 +47,7 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
 ---
+---
+[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
