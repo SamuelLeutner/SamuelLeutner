@@ -7,9 +7,9 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
 </p>
 <p aling="left">
 🌍 I live in Guarapuava, Paraná, Brazil<br>✉️ You can reach me at samuel.leutner@icloud.com<br>🚀 I am currently looking for work<br>🧠 I'm learning SQL, NodeJS and React<br>🤝 I am open to collaborating on high impact projects on people's lives <br/>
-[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
-  
 </p>
+[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 <p aling="center">
