@@ -1,7 +1,7 @@
 <h1 align="left">Hi, My name is Samuel 👋</h1>
 
 # 💫 About Me:
-I'm a 19 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is Full Stack Development, making applications that impact the lives of thousands of users.<br><br>I am also a student of the Profession Programmer course by professor Paulo Victor Borges and the platform @Rocketseat.<br><br>🌍 I live in Guarapuava, Paraná, Brazil<br>✉️ You can reach me at samuel.leutner@icloud.com<br>🚀 I am currently looking for work<br>🧠 I'm learning SQL, NodeJS and React<br>🤝 I am open to collaborating on high impact projects on people's lives
+I'm a 19 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is Full Stack Development, making applications that impact the lives of thousands of users.<br><br>I am also a student of the Profession Programmer course by professor Paulo Victor Borges and the platform @Rocketseat.<br><br>🌍 I live in Guarapuava, Paraná, Brazil<br>✉️ You can reach me at samuel.leutner@icloud.com<br>🚀 I am currently looking for work<br>🧠 I'm learning SQL, Node.JS and Next.JS<br>🤝 I am open to collaborating on high impact projects on people's lives
 
 
 ## 🌐 Socials:
