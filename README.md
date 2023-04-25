@@ -29,6 +29,11 @@ I'm a 19 year old developer. I love coding and figuring out how to solve deep pr
  
 ![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
  </div>
+ 
+ ### ✍️ My favorite Dev Quote
+<div align="center">
+  What I cannot create, I do not understand — Richard Feynman.
+ </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
