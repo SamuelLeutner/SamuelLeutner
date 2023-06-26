@@ -63,7 +63,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
  </div>
 
 ### 🔝 Top Contributed Repo
-<div align="center"
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
