@@ -67,8 +67,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-
-![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=8&color=3)(https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=8&color=3)](https://visitcount.itsvg.in)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
