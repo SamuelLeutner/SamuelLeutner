@@ -49,7 +49,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ## 🏆 GitHub Trophies
 <div align="center">
  
-![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=onedark&hide_border=true&no-frame=false&no-bg=false&margin-w=4)
  </div>
  
  ### ✍️ My Favorite Quote
