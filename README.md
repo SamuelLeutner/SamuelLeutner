@@ -49,7 +49,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ## 🏆 GitHub Trophies
 <div align="center">
  
-![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=onedark&hide_border=true&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=onedark&hide_border=true&no-bg=false&margin-w=4)
  </div>
  
  ### ✍️ My Favorite Quote
@@ -66,7 +66,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ### 🔝 Top Contributed Repo
 <div align="center">
  
-![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=onedark&hide_border=true&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=8&color=3)](https://visitcount.itsvg.in)
 </div>
