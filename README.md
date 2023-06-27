@@ -39,7 +39,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
  # 📊 GitHub Stats:
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=SamuelLeutner&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SamuelLeutner&theme=onedark&hide_border=true&include_all_commits=true&count)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelLeutner&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLeutner&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
