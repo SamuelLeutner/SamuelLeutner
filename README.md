@@ -27,7 +27,7 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ## 🌐 Socials:
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/s.leutner9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hwww.linkedin.com/in/SamuelLeutner) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/s.leutner9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hwww.linkedin.com/in/SamuelLeutner/) 
  </div>
 
 # 💻 Tech Stack:
