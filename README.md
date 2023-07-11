@@ -8,8 +8,6 @@ I'm a 20 year old developer. I love coding and figuring out how to solve deep pr
 <br>
 ✉️ You can reach me at samuel.leutner@icloud.com
 <br>
-🧠 I'm learning Rust and Python
-<br>
 🤝 I am open to collaborating on high impact projects on people's lives
 
 ## PT
@@ -18,8 +16,6 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 🌍 Eu moro em Guarapuava, Paraná, Brasil.
 <br>
 ✉️ Você pode entrar em contato comigo pelo email samuel.leutner@icloud.com.
-<br>
-🧠 Estou aprendendo Rust e Python
 <br>
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
 <br>
