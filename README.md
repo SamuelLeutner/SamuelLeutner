@@ -1,24 +1,20 @@
-<h1 align="left">Hi, My name is Samuel 👋</h1>
+# Hi, My name is Samuel 👋
 
-# 💫 About Me:
-## EN 
-I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is Full Stack Development, making applications that impact the lives of thousands of users.
+## 💫 About Me:
+
+### EN
+I'm a 20-year-old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is Full Stack Development, creating applications that impact the lives of thousands of users.
 <br><br>
-🌍 I live in Guarapuava, Paraná, Brazil
-<br>
 ✉️ You can reach me at samuel.leutner@icloud.com
 <br>
 🤝 I am open to collaborating on high impact projects on people's lives
 
-## PT
+### PT
 Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver problemas complexos usando tecnologia de ponta. Meu foco principal é o desenvolvimento Full Stack, criando aplicações que impactam a vida de milhares de usuários.
 <br><br>
-🌍 Eu moro em Guarapuava, Paraná, Brasil.
-<br>
 ✉️ Você pode entrar em contato comigo pelo email samuel.leutner@icloud.com.
 <br>
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
-<br>
 
 ## 🌐 Socials:
 <div align="center">
@@ -66,5 +62,3 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
 ---
 [![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=8&color=3)](https://visitcount.itsvg.in)
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
