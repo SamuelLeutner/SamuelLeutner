@@ -43,11 +43,9 @@ Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver p
  # 📊 GitHub Stats:
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SamuelLeutner&theme=onedark&show_icons=true&theme=radical)
- 
-![](https://github-readme-stats.vercel.app/api?username=SamuelLeutner&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelLeutner&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLeutner&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SamuelLeutner&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelLeutner&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLeutner&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  </div>
 
