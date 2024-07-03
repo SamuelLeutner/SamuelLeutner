@@ -3,73 +3,48 @@
 ## 💫 About Me:
 
 ### EN
-I'm a 20-year-old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is Full Stack Development, creating applications that impact the lives of thousands of users.
+Back-End Developer passionate about creating innovative and efficient solutions in collaborative development environments. Currently pursuing Software Engineering at Infnet Rio de Janeiro, I am always looking for new challenges that allow me to apply my skills in technologies such as Laravel, PHP, JavaScript, TypeScript, Python, and Go. I have solid experience in integrating business intelligence, developing omnichannel systems, and modern software architecture, including Microservices, WebSockets, Socket.IO, and Event-driven Architecture.
 <br><br>
-✉️ You can reach me at samuel.leutner@icloud.com
+✉️ You can reach me at samuel.leutner@gmail.com
 <br>
 🤝 I am open to collaborating on high impact projects on people's lives
 
 ### PT
-Eu sou um desenvolvedor de 20 anos. Eu amo programar e descobrir como resolver problemas complexos usando tecnologia de ponta. Meu foco principal é o desenvolvimento Full Stack, criando aplicações que impactam a vida de milhares de usuários.
+Desenvolvedor Back-End apaixonado por criar soluções inovadoras e eficientes em ambientes de desenvolvimento colaborativo. Atualmente cursando Engenharia de Software na Infnet Rio de Janeiro, estou sempre em busca de novos desafios que me permitam aplicar minhas habilidades em tecnologias como Laravel, PHP, JavaScript, TypeScript, Python e Go. Tenho experiência sólida em integração de inteligência de mercado, desenvolvimento de sistemas omnichannel e arquitetura de software moderna, incluindo Microservices, WebSockets, Socket.IO e Event-driven Architecture.
 <br><br>
-✉️ Você pode entrar em contato comigo pelo email samuel.leutner@icloud.com.
+✉️ Você pode entrar em contato comigo pelo email samuel.leutner@gmail.com.
 <br>
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
 
 ## 🌐 Socials:
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/s.leutner9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SamuelLeutner/) 
- </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SamuelLeutner/) 
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
 
-## Mobile:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-
-## Front-end:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vue.js&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-
-## Back-end:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
-
-## Databases:
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
- </div>
+### Programming Languages:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+### Frameworks:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
- # 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SamuelLeutner&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelLeutner&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLeutner&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
- </div>
-
-## 🏆 GitHub Trophies
-<div align="center">
- 
-![](https://github-profile-trophy.vercel.app/?username=SamuelLeutner&theme=onedark&hide_border=true&no-bg=false&margin-w=4)
- </div>
- 
- ### ✍️ My Favorite Quote
-<div align="center">
-  What I cannot create, I do not understand — Richard Feynman.
- </div>
-
-### ✍️ Random Dev Quote
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
- </div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
- 
-![](https://github-contributor-stats.vercel.app/api?username=SamuelLeutner&limit=5&theme=onedark&hide_border=true&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=SamuelLeutner&icon=8&color=3)](https://visitcount.itsvg.in)
-</div>
+### Databases:
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
