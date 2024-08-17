@@ -3,14 +3,14 @@
 ## 💫 About Me:
 
 ### EN
-Back-End Developer passionate about creating innovative and efficient solutions in collaborative development environments. Currently pursuing Software Engineering at Infnet Rio de Janeiro, I am always looking for new challenges that allow me to apply my skills in technologies such as Laravel, PHP, JavaScript, TypeScript, Python, and Go. I have solid experience in integrating business intelligence, developing omnichannel systems, and modern software architecture, including Microservices, WebSockets, Socket.IO, and Event-driven Architecture.
+Software Developer with over 2 years of Back-End experience. Specialized in PHP, JavaScript, Golang, Python, and Java. Significant experience in microservices architecture, scalable solutions development, and system integration. Proficient in process optimization, event-driven architecture, and SaaS product development.
 <br><br>
 ✉️ You can reach me at samuel.leutner@gmail.com
 <br>
 🤝 I am open to collaborating on high impact projects on people's lives
 
 ### PT
-Desenvolvedor Back-End apaixonado por criar soluções inovadoras e eficientes em ambientes de desenvolvimento colaborativo. Atualmente cursando Engenharia de Software na Infnet Rio de Janeiro, estou sempre em busca de novos desafios que me permitam aplicar minhas habilidades em tecnologias como Laravel, PHP, JavaScript, TypeScript, Python e Go. Tenho experiência sólida em integração de inteligência de mercado, desenvolvimento de sistemas omnichannel e arquitetura de software moderna, incluindo Microservices, WebSockets, Socket.IO e Event-driven Architecture.
+Desenvolvedor de Software com mais de 2 anos de experiência em Back-End. Especializado em PHP, JavaScript, Golang, Python e Java. Experiência significativa em arquitetura de microserviços, desenvolvimento de soluções escaláveis e integração de sistemas. Proficiente em otimização de processos, arquitetura de eventos e desenvolvimento de produtos SaaS.
 <br><br>
 ✉️ Você pode entrar em contato comigo pelo email samuel.leutner@gmail.com.
 <br>
@@ -32,6 +32,7 @@ Desenvolvedor Back-End apaixonado por criar soluções inovadoras e eficientes e
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Frameworks:
