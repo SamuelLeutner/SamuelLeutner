@@ -3,14 +3,14 @@
 ## 💫 About Me:
 
 ### EN
-Software Developer with over 2 years of Back-End experience. Specialized in PHP, JavaScript, Golang, Python, and Java. Significant experience in microservices architecture, scalable solutions development, and system integration. Proficient in process optimization, event-driven architecture, and SaaS product development.
+Software Developer with over 2 years of experience in Back-End, currently pursuing a degree in Software Engineering at Instituto Infnet. Specialized in Golang, PHP, Laravel, and Node.js. With solid experience in microservices architecture using Node.js and Golang, scalable solution development, and system integration. Proficient in process optimization, event-driven architecture, and SaaS product development.
 <br><br>
 ✉️ You can reach me at samuel.leutner@gmail.com
 <br>
 🤝 I am open to collaborating on high impact projects on people's lives
 
 ### PT
-Desenvolvedor de Software com mais de 2 anos de experiência em Back-End. Especializado em PHP, JavaScript, Golang, Python e Java. Experiência significativa em arquitetura de microserviços, desenvolvimento de soluções escaláveis e integração de sistemas. Proficiente em otimização de processos, arquitetura de eventos e desenvolvimento de produtos SaaS.
+Desenvolvedor de Software com mais de 2 anos de experiência em Back-End, atualmente cursando Engenharia de Software no Instituto Infnet. Especializado em Golang, PHP, Laravel e Node.js. Com sólida experiência em arquitetura de microserviços com node.js e Golang, desenvolvimento de soluções escaláveis e integração de sistemas. Proficiente em otimização de processos, arquitetura de eventos e desenvolvimento de produtos SaaS.
 <br><br>
 ✉️ Você pode entrar em contato comigo pelo email samuel.leutner@gmail.com.
 <br>
