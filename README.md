@@ -20,6 +20,8 @@ Desenvolvedor de Software com mais de 2 anos de experiência em Back-End, atualm
 <div align="center">
   <a href="https://www.linkedin.com/in/SamuelLeutner/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@samuel.leutner" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
