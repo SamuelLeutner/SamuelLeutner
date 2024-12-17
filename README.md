@@ -31,7 +31,7 @@ Desenvolvedor de Software com mais de 2 anos de experiência em Back-End, atualm
   
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 
 ### Programming Languages:
