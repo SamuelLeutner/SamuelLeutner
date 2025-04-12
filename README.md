@@ -1,34 +1,53 @@
-# Hi, My name is Samuel 👋
+##   💫 About Me:
 
-## 💫 About Me:
+###   EN
+Software Developer with over 3 years of experience in Back-End, passionate about transforming ideas into digital solutions. Currently pursuing a degree in Software Engineering at Instituto Infnet. Specialized in Golang, PHP, Laravel, and Node.js, with a proven track record in microservices architecture, scalable development, and systems integration.
 
-### EN
-Software Developer with over 3 years of experience in Back-End, currently pursuing a degree in Software Engineering at Instituto Infnet. Specialized in Golang, PHP, Laravel, and Node.js. With solid experience in microservices architecture using Node.js and Golang, scalable solution development, and system integration. Proficient in process optimization, event-driven architecture, and SaaS product development.
-<br><br>
+My experience ranges from process optimization and event-driven architecture to SaaS product development. In my role as Innovation Leader, I coordinate teams and drive the implementation of technological solutions that generate tangible results.
+
+Seeking challenges that allow me to apply my technical and leadership skills to create innovative, high-impact solutions.
+
 ✉️ You can reach me at samuel.leutner@proton.me
-<br>
-🤝 I am open to collaborating on high impact projects on people's lives
 
-### PT
-Desenvolvedor de Software com mais de 3 anos de experiência em Back-End, atualmente cursando Engenharia de Software no Instituto Infnet. Especializado em Golang, PHP, Laravel e Node.js. Com sólida experiência em arquitetura de microserviços com node.js e Golang, desenvolvimento de soluções escaláveis e integração de sistemas. Proficiente em otimização de processos, arquitetura de eventos e desenvolvimento de produtos SaaS.
-<br><br>
+🤝 I am open to collaborating on high-impact projects that improve people's lives.
+
+###   PT
+Desenvolvedor de Software com mais de 3 anos de experiência em Back-End, apaixonado por transformar ideias em soluções digitais. Atualmente cursando Engenharia de Software no Instituto Infnet. Especializado em Golang, PHP, Laravel e Node.js. Com sólida experiência em arquitetura de microserviços, desenvolvimento de soluções escaláveis e integração de sistemas.
+
+Minha experiência abrange desde a otimização de processos e arquitetura de eventos até o desenvolvimento de produtos SaaS. Em minha função como Líder de Inovação, coordeno equipes e impulsiono a implementação de soluções tecnológicas que geram resultados tangíveis.
+
+Busco desafios que me permitam aplicar minhas habilidades técnicas e de liderança para criar soluções inovadoras e de alto impacto.
+
 ✉️ Você pode entrar em contato comigo pelo email samuel.leutner@proton.me
-<br>
+
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
+
+###   IT
+Sviluppatore Software con oltre 3 anni di esperienza nel Back-End, appassionato di trasformare le idee in soluzioni digitali. Attualmente studente di Ingegneria Software presso l'Instituto Infnet. Specializzato in Golang, PHP, Laravel e Node.js. Con una comprovata esperienza in architettura di microservizi, sviluppo scalabile e integrazione di sistemi.
+
+La mia esperienza spazia dall'ottimizzazione dei processi e l'architettura degli eventi allo sviluppo di prodotti SaaS. Nel mio ruolo di Leader dell'Innovazione, coordino team e promuovo l'implementazione di soluzioni tecnologiche che generano risultati tangibili.
+
+Cerco sfide che mi permettano di applicare le mie competenze tecniche e di leadership per creare soluzioni innovative e di alto impatto.
+
+✉️ Puoi contattarmi via email all'indirizzo samuel.leutner@proton.me
+
+🤝 Sono aperto a collaborare su progetti ad alto impatto sulla vita delle persone.
+
+<br>
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://www.linkedin.com/in/SamuelLeutner/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff" alt="Logo LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@samuel.leutner" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Logo Medium"/>
-  </a>
-  
-  <a href="https://wakatime.com/@SamuelLeutner" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-4B8BBE?logo=wakatime&logoColor=white" alt="Logo Wakatime"/>
-  </a>
-  
+  <a href="https://www.linkedin.com/in/SamuelLeutner/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff" alt="Logo LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@samuel.leutner" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Logo Medium"/>
+  </a>
+  
+  <a href="https://wakatime.com/@SamuelLeutner" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-4B8BBE?logo=wakatime&logoColor=white" alt="Logo Wakatime"/>
+  </a>
+  
 </div>
 
 ## 💻 Tech Stack:
